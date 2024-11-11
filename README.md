@@ -30,6 +30,11 @@ I enjoy solving coding challenges and am always looking for ways to improve my s
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaHdIn2020&show_icons=true&theme=radical)
 
+## 📊 Coding Stats
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Tanjip)
+![Codeforces](https://img.shields.io/badge/Codeforces-Rating%20%3A%20780-blue)
+
+
 ## 🌟 Projects
 Projects will be added soon.
 
