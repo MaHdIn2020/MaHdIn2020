@@ -28,7 +28,7 @@ I'm a Computer Science student at BRAC University with a CGPA of 3.82. Currently
 I enjoy solving coding challenges and am always looking for ways to improve my skills. In my free time, I love exploring new technologies and working on personal projects.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaHdIn2020&show_icons=true&theme=radical)
 
 ## 🌟 Projects
 Projects will be added soon.
