@@ -1,31 +1,67 @@
-<h1 align="center">Hi 👋, I'm Tanjip Surait MAhdin</h1>
-<h3 align="center">I'm a Computer Science student at BRAC University</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdin2020&label=Profile%20views&color=0e75b6&style=flat" alt="mahdin2020" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdin2020" alt="mahdin2020" /></a> </p>
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 💬 Ask me about **DSA**
-
-- 📫 How to reach me **tanjip.surait.mahdin@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tanjip surait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjip surait" height="30" width="40" /></a>
-<a href="https://fb.com/tanjip surait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanjip surait" height="30" width="40" /></a>
-<a href="https://instagram.com/tanjipmahdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanjipmahdin" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/c-a-t-a-l-y-s-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="c-a-t-a-l-y-s-t" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanjip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanjip" height="30" width="40" /></a>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.imgur.com/yourbannerimage.png" alt="Banner" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Name & Designation -->
+<h1 align="center">Hi, I'm Tanjip Surait Mahdin 👋</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdin2020&show_icons=true&locale=en&layout=compact" alt="mahdin2020" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdin2020&show_icons=true&locale=en" alt="mahdin2020" /></p>
+## 🚀 About Me
+I am a passionate developer with experience in **MERN Stack, Python, and C++**, driven by a love for problem-solving and building impactful projects.  
+I have a strong foundation in **Data Structures & Algorithms** and enjoy solving challenges on **LeetCode**.  
+Always eager to learn, explore new technologies, and collaborate on exciting projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdin2020&" alt="mahdin2020" /></p>
+---
 
+## 📌 Current Activities
+- 🌱 I am exploring **Next.js**  
+- 💻 I’m working on a **Tourism Website** project  
+- 🏆 Solving problems on **LeetCode** to strengthen my DSA skills  
+- 📖 Learning about **AI/ML integration in web apps**  
+
+---
+
+## 🛠 Skills
+
+### Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+</p>
+
+### Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
+</p>
+
+### Programming & DSA  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python" />
+</p>
+
+### Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p>
+  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
+</p>
