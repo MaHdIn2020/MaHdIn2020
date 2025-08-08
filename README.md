@@ -63,5 +63,6 @@ Always eager to learn, explore new technologies, and collaborate on exciting pro
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaHdIn2020&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaHdIn2020&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
