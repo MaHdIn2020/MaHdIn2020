@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://i.imgur.com/yourbannerimage.png](https://ibb.co.com/ZpQQB6Nb)" alt="Banner" width="100%">
+  <img src="https://ibb.co.com/ZpQQB6Nb" alt="Banner" width="100%">
 </p>
 
 <!-- Name & Designation -->
