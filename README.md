@@ -18,7 +18,7 @@ Always eager to learn, explore new technologies, and collaborate on exciting pro
 
 ## 📌 Current Activities
 - 🌱 I am exploring **Next.js**  
-- 💻 I’m working on a **Tourism Website** project  
+- 💻 I’m working on a **JobNest Website** project  
 - 🏆 Solving problems on **LeetCode** to strengthen my DSA skills  
 - 📖 Learning about **AI/ML integration in web apps**  
 
