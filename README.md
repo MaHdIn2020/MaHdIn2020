@@ -58,12 +58,12 @@ Always eager to learn, explore new technologies, and collaborate on exciting pro
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaHdIn2020&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaHdIn2020&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaHdIn2020&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=MaHdIn2020&theme=tokyonight" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MaHdIn2020&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaHdIn2020&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 
