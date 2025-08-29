@@ -6,6 +6,9 @@
 <!-- Name & Designation -->
 <h1 align="center">Hi, I'm Tanjip Surait Mahdin 👋</h1>
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaHdIn2020&label=Profile%20views&color=blueviolet&style=flat" alt="MaHdIn2020" />
+</p>
 
 ---
 
