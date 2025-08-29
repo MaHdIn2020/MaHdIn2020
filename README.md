@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaHdIn2020&label=Profile%20views&color=blueviolet&style=flat" alt="MaHdIn2020" />
 </p>
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=MaHdIn2020)
 
 ---
 
