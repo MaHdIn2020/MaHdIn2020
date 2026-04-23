@@ -15,7 +15,8 @@
 
 ## 🚀 About Me
 I am a passionate developer with experience in **MERN Stack, Python, and C++**, driven by a love for problem-solving and building impactful projects.  
-I have a strong foundation in **Data Structures & Algorithms** and enjoy solving challenges on **LeetCode**.  
+I have a strong foundation in **Data Structures & Algorithms** and enjoy solving challenges on **LeetCode**.
+Learning **Machine Learning** & **AI** fundamentals and exploring it.
 Always eager to learn, explore new technologies, and collaborate on exciting projects.
 
 ---
@@ -45,6 +46,14 @@ Always eager to learn, explore new technologies, and collaborate on exciting pro
   <img src="https://skillicons.dev/icons?i=cpp,python" />
 </p>
 
+### ML / AI Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 ### Tools & Platforms  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
